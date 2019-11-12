@@ -1,5 +1,7 @@
 .btn-success {
   color: #fff;
-  background-color: yellow;
-  border-color: yellow;
+  background-color: red;
+  border-color: red;
 }
+
+<h2>background: red</h2>
