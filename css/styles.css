@@ -1,7 +1,14 @@
 .btn-success {
-  color: #fff;
+  color: #28a745;
   background-color: red;
   border-color: red;
+}
+
+html {
+  font-family: sans-serif;
+  line-height: 1.15;
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
 body {
@@ -22,12 +29,6 @@ a {
 }
 
 p {
-  color: #343a40;
-  font-family: "courier new";
-  font-size: 15px;
-}
-
-ol {
   color: #343a40;
   font-family: "courier new";
   font-size: 15px;
