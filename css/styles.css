@@ -4,13 +4,6 @@
   border-color: red;
 }
 
-html {
-  font-family: sans-serif;
-  line-height: 1.15;
-  -webkit-text-size-adjust: 100%;
-  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
-}
-
 body {
   background-color: white;
   color: white
@@ -34,10 +27,16 @@ p {
   font-size: 15px;
 }
 
+ol {
+  color: #343a40;
+  font-family: "courier new";
+  font-size: 15px;
+}
+
 div {
     min-height: 50vh;
     width: 100vh;
-    background-color: #f8f9fa(235, 155, 100);
+    background-color: #f8f9fa;
 }
 
 li {
